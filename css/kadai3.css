@@ -1,0 +1,28 @@
+h1{
+    color:#ccffcc;
+    text-align: center;
+    background-color: #888833;
+}
+h2{
+    color:#00ffff;
+    text-align: center;
+    background-color: #00aa;
+}
+
+h3{
+    color:#00CC55;
+    
+}
+h5{
+    color:#ff0000;   
+}
+p{
+    color:#ff0000;   
+}
+body{
+    background-position: center;
+     background-image: url(../images/haikei6.jpg)
+    
+    
+}
+
