@@ -1,0 +1,23 @@
+h3{
+    color:#000000;
+    text-align: center;
+    background-color: #ffcccc;
+   
+}
+body{
+     background-position: center;
+     background-image: url(../images/Ex_haikei.jpg)
+}
+h4{
+    color:#aaddff;
+    text-align: center;
+    background-color: #0000ff;
+}
+ol{
+      background-position: center;
+     background-image: url(../images/haikei6.jpg)
+}
+table{
+     color:#000000;
+    background-color: #FFFFFF;
+}
