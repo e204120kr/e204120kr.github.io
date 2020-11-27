@@ -1,0 +1,32 @@
+.he{
+   color:white;
+    text-align: center;
+    background-color:green;
+}
+h4.she{
+            color:black;
+    text-align: center;
+    background-color:greenyellow;
+}
+.I{color:white;
+    text-align: center;
+    background-color:skyblue;}
+body{
+    
+    background-image: url(../images/haikei2.jpg)
+    
+}
+h5{
+    color: azure;
+}
+h4{
+    color: aqua;
+}
+a:hover{
+    background-color: skyblue;
+}
+.It{
+    color: antiquewhite;
+    text-align: center;
+    background-color:lightpink;
+}
