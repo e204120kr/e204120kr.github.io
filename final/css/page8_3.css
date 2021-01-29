@@ -1,0 +1,205 @@
+body{
+    
+    background-image: url(../images/unnamed.jpg)
+    
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto; 
+    height:700px;
+}
+
+div.title{
+    width:1000px;
+    background-color: aquamarine;
+    text-align: center;
+    height:45px;
+    
+}
+
+div.setumei{
+    margin-top: 10px;
+    background-color:azure;
+    width:1000px;
+    height:100px;
+}
+
+div.PR{
+    text-align: center;
+    margin-left: 280px;
+    margin-top: 10px;
+    background-color: paleturquoise;
+    font-size: 25px;
+    width:500px;
+}
+
+div.Cetnter{
+    font-size: 0;
+    width:1000px;
+    height:50px
+}
+
+div.menu{vertical-align: top;
+    vertical-align: top;
+    display:inline-block;
+     text-align: center;
+    background-color: white;
+    margin-top: 55px;
+    width:140px;
+    height:290px;
+}
+
+.list{
+    display:inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-align: center;
+    background-color: yellow;
+    font-size: 20px;
+    width:100px;
+    height:30px;
+    
+}
+
+.list2{
+    display:inline-block;
+    text-align: center;
+    margin-top: 10px;
+     margin-left: 5px;
+    background-color: palegreen;
+    font-size: 20px;
+    width:100px;
+    height:30px;
+    
+}
+
+.list3{
+    display:inline-block;
+    text-align: center;
+     margin-left: 5px;
+    margin-top: 10px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    width:120px;
+    height:30px;
+    
+}
+
+.list4{
+    display:inline-block;
+    text-align: center;
+     margin-left: 5px;
+     margin-top: 10px;
+    background-color: lightpink;
+    font-size: 20px;
+    width:120px;
+    height:30px;
+    
+}
+
+.list5{
+    display:inline-block;
+    text-align: center;
+     margin-left: 5px;
+     margin-top: 10px;
+    background-color: gainsboro;
+    font-size: 20px;
+    width:120px;
+    height:30px;
+}
+
+.list6{
+    display:inline-block;
+    text-align: center;
+     margin-left: 5px;
+     margin-top: 10px;
+   background-color: lightcoral;
+    font-size: 20px;
+    width:120px;
+    height:30px;
+}
+
+.list7{
+    display:inline-block;
+    text-align: center;
+     margin-left: 5px;
+     margin-top: 10px;
+      background-color: paleturquoise;
+    font-size: 20px;
+    width:120px;
+    height:30px;
+}
+
+
+
+div.footer{
+    margin-top: 90px;
+    width:1000px;
+    height:50px;
+    background-color: white;
+    font-size: 30px;
+    color: black;
+    text-align: right;
+}
+.puro{
+    vertical-align: top;
+     display:inline-block;
+    text-align: center;
+    margin-left: 330px;
+    font-size: 20px;
+    width:200px;
+    
+      
+}
+.sextutei{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: white;
+    font-size: 20px;
+}
+
+
+.Name01{
+    margin-top: 10px;
+     background-color: palegreen;
+    width:400px;
+}
+.Name02{
+    margin-top: 10px;
+     background-color: antiquewhite;
+    width:400px;
+}
+.Name03{
+    margin-top: 10px;
+     background-color: lightpink;
+    width:400px;
+}
+.Name04{
+    margin-top: 10px;
+     background-color: gainsboro;
+    width:400px;
+}
+.Name05{
+    margin-top: 10px;
+     background-color: lightcoral;
+    width:400px;
+}
+.Name06{
+    margin-top: 10px;
+     background-color: paleturquoise;
+    width:400px;
+}
+.mons{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+ margin-top: 5px   
+}
+.kome{
+    vertical-align: top;
+     display:inline-block;
+    text-align: left;
+    background-color: white;
+    width:400px;
+}
